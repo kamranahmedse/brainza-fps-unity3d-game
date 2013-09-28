@@ -1,0 +1,23 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 9.17.10.2932]
+    Renderer: Intel(R) HD Graphics
+    Vendor:   Intel
+    VRAM:     32 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.408 seconds
+Platform assembly: E:\Educational\Kamran's Data\Class Works\Projects\Completed\Desktop Applications\First Person Shooter Game for ICTRDF\Version 1\Delivered\Deliverable\Deliverable (exe)\brainza_Data\Managed\Boo.Lang.dll (this message is harmless)
