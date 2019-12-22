@@ -1,4 +1,6 @@
-# Brainza – The Game:
+![](https://i.imgur.com/P7dnspb.png)
+
+# Brainza â€“ The Game:
 A game in which player will play inside a brain like environment. He will be presented with some enemies. These are the defaulters that are trying to harm the brain as well as the abilities of the player to live his life efficiently. So it is essential to get rid of them.
 
 # Aim:
